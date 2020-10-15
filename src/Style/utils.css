@@ -1,0 +1,31 @@
+.info-container {
+  width: 150px;
+}
+
+.info-flag {
+  height: 80px;
+  width: auto;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.info-name {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.info-confirmed {
+  font-size: 1.2rem;
+  color: rgb(251, 68, 67);
+}
+
+.info-recovered {
+  font-size: 1.2rem;
+  color: rgb(125, 215, 29);
+}
+
+.info-deaths {
+  font-size: 1.2rem;
+  color: rgb(204, 16, 52);
+}

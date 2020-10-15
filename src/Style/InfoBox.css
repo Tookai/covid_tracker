@@ -1,0 +1,27 @@
+.infobox {
+  display: flex;
+  flex: 1;
+  border-top: 10px solid grey;
+  min-width: 215px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.infoBox--selected {
+  border-top: 10px solid orange;
+}
+
+.infobox__title {
+  font-size: 1.8rem !important;
+  font-weight: bold !important;
+  line-height: 1 !important;
+  text-decoration: underline;
+}
+
+.infobox__cases {
+  padding: 5px 0 !important;
+}
+
+.infobox__cases small {
+  font-size: 1rem;
+}

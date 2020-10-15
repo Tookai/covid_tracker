@@ -1,0 +1,13 @@
+.carte {
+  height: 600px;
+  margin: 10px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.carte .leaflet-container {
+  height: 100%;
+  border-radius: 5px;
+}
